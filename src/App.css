@@ -1,0 +1,24 @@
+main {
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+  margin: 0.5em;
+  padding: 0.5em;
+  border: 1px solid;
+}
+.alerts {
+  text-align: center;
+  vertical-align: center;
+  border: 1px solid;
+  margin: 0.5em;
+  padding: 0.5em;
+  border: 1px solid;
+}
+.controls {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  margin: 0.5em;
+  padding: 0.5em;
+  border: 1px solid;
+}
